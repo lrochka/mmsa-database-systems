@@ -8,6 +8,7 @@
 - Afanasieva Iryna, *"Database Systems Course"* [lrochka/mmsa-database-systems](https://github.com/lrochka/mmsa-database-systems)
 
 ## KA-86 info
+- 12 Kovalenko Tatiana, *"Travel blog in Ukraine"* https://github.com/users/l6l9ldemonl6l9l/projects/1  
 - 20 Prystavka Vlad, *"Online fitness studio"* [prystavka/fitnessStudio](https://github.com/prystavka/fitnessStudio)
 ## KA-87 info  
 
