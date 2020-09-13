@@ -9,7 +9,7 @@
 
 ## KA-86 info
 - 20 Prystavka Vlad, *"Online fitness studio"* [prystavka/fitnessStudio](https://github.com/prystavka/fitnessStudio)
-- 26 Shudra Ruslan, *"Organization of work on taxi station"* [ShudraRuslan/Taxi-station] (https://github.com/ShudraRuslan/Taxi-station)
+- 26 Shudra Ruslan, *"Organization of work on taxi station"* (https://github.com/ShudraRuslan/Taxi-station)
 
 ## KA-87 info  
 
