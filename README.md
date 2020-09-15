@@ -15,6 +15,8 @@
 - 21 Slobodzyaniy Maksym, *"Dating application"* [mmassolit/dating-app](https://github.com/mmassolit/dating-app)
 
 ## KA-87 info  
+- 3 Darialov Andrew, *"Gym"* [Darialov/Gym](https://github.com/DarialovAndrew/Darialov-Gym)
 - 9 Marafiievych Mariia, *"Online cosmetics store"* [mariiamarafiievych/Online_cosmetics_store](https://github.com/mariiamarafiievych/Online_cosmetics_store)
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome]: https://github.com/sindresorhus/awesome
+
