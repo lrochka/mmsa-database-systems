@@ -11,7 +11,7 @@
 
 1 LastName FirsName, *"Title"* [GitHub](https://github.com)
 
-
+- 07 Yevhenii Kaliukh, *Online store "Gogs and for dogs"* [evvhenii/DogsAndForDogs](https://github.com/evvhenii/DogsAndForDogs)
 - 09 Danylo Kanievskyi, *"Renovation of apartments"* [danylokaniev/mmsa-database-systems](https://github.com/danylokaniev/mmsa-database-systems)
 - 10 Dmytro Kanievskyi, *"Coworking"* [kan-dim/co-working](https://github.com/kan-dim/co-working)
 - 12 Kovalenko Tatiana, *"Travel blog"* [kovalenko/travelBlog](https://github.com/l6l9ldemonl6l9l/TravelBlog)
