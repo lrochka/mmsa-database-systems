@@ -8,6 +8,7 @@
 - Afanasieva Iryna, *"Database Systems Course"* [lrochka/mmsa-database-systems](https://github.com/lrochka/mmsa-database-systems)
 
 ## KA-86 info
+- 05 Dubyk Danylo, *"For store (program store)"* [CTMBNara/FogStore](https://github.com/CTMBNara/FogStore)
 - 20 Prystavka Vlad, *"Online fitness studio"* [prystavka/fitnessStudio](https://github.com/prystavka/fitnessStudio)
 ## KA-87 info  
 
