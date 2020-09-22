@@ -28,3 +28,4 @@
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome]: https://github.com/sindresorhus/awesome
 - 17 Pinchuk Maksym, *"Online product shop"* [mpinchuk1/dbProdShop](https://github.com/mpinchuk1/dbProdShop)
+- 5 Zadorozhnyi Oleg, *"Online games"* [RoninKagome/online-games](https://github.com/RoninKagome/online-games)
