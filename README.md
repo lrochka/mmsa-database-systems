@@ -15,6 +15,7 @@
 - 10 Dmytro Kanievskyi, *"Coworking"* [kan-dim/co-working](https://github.com/kan-dim/co-working)
 - 11 Klymenko Kyryl, *"Banking Management System"* [Hoceto/BankingManagementSystem](https://github.com/Hoceto/BankingManagementSystem)
 - 12 Kovalenko Tatiana, *"Travel blog"* [kovalenko/travelBlog](https://github.com/l6l9ldemonl6l9l/TravelBlog)
+- 18 Ovcharenko Oleksandr, *"Organisation of the sawmill work"* [flecv/Sawnill_organisation_work](https://github.com/flecv/Sawnill_organisation_work)
 - 19 Petryna Volodymyr, *"Woodworking enterprise accounting system"* [vovapetryna/WoodProject](https://github.com/vovapetryna/WoodProject.git)
 - 20 Prystavka Vlad, *"Online fitness studio"* [prystavka/fitnessStudio](https://github.com/prystavka/fitnessStudio)
 - 21 Slobodzyaniy Maksym, *"Dating application"* [mmassolit/dating-app](https://github.com/mmassolit/dating-app)
