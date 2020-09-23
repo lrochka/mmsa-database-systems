@@ -12,6 +12,7 @@
 1 LastName FirsName, *"Title"* [GitHub](https://github.com)
 
 - 06 Viktoriia Ivanova, *"Travel agency"* [Vikuolia/Travel_agency-DB](https://github.com/Vikuolia/Travel_agency-DB)
+- 07 Yevhenii Kaliukh, *"Online store Dogs and For Dog"* [evvhenii/DogsAndForDogs](https://github.com/evvhenii/DogsAndForDogs)
 - 09 Danylo Kanievskyi, *"Renovation of apartments"* [danylokaniev/renovation](https://github.com/danylokaniev/renovation)
 - 10 Dmytro Kanievskyi, *"Coworking"* [kan-dim/co-working](https://github.com/kan-dim/co-working)
 - 11 Klymenko Kyryl, *"Banking Management System"* [Hoceto/BankingManagementSystem](https://github.com/Hoceto/BankingManagementSystem)
