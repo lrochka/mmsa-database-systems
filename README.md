@@ -22,6 +22,7 @@
 
 ## KA-87 info  
 - 3 Darialov Andrew, *"Gym"* [DarialovAndrew/Gym](https://github.com/DarialovAndrew/Darialov-Gym)
+- 5 Zadorozhnyi Oleg *"Online games"* [RoninKagome/mmsa-database-systems](https://github.com/RoninKagome/mmsa-database-systems)
 - 7 Kapatsyn Diana, *"Online store for used clothing"* [Diana3101/Store_for_used_clothing](https://github.com/Diana3101/Store_for_used_clothing)
 - 8 Kondratieva Julia, *"Bookcrossing application"* [JuliaKondratieva/data-base](https://github.com/JuliaKondratieva/data-base)
 - 9 Marafiievych Mariia, *"Online cosmetics store"* [mariiamarafiievych/Online_cosmetics_store](https://github.com/mariiamarafiievych/Online_cosmetics_store)
@@ -29,7 +30,6 @@
 - 15 Orlovskyi Artem, *"Massive Open Online Courses platform"* [orlovskiy-artem/mooc-platform](https://github.com/orlovskiy-artem/mooc-platform)
 - 17 Pinchuk Maksym, *"Online product shop"* [mpinchuk1/dbProdShop](https://github.com/mpinchuk1/dbProdShop)
 - 20 Poltorak Yevheniia *"Order and delivery of materials for the factory"* [Tetravi/FactoryDatabase](https://github.com/Tetravi/FactoryDatabase)
-- 5 Zadorozhnyi Oleg *"Online games"* [RoninKagome/mmsa-database-systems](https://github.com/RoninKagome/mmsa-database-systems)
 
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome]: https://github.com/sindresorhus/awesome
