@@ -8,6 +8,8 @@
 
 ## KA-96 info
 
+- Vitkovskyi Danylo, *"DanikVitek GitHub"* [link](https://github.com/DanikVitek)
+
 ## KA-97 info  
 
 ## KA-98 info  
