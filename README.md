@@ -8,6 +8,8 @@
 
 ## KA-96 info
 
+- Perviy Mykhailo, **Online Gallery Management System** | [itdaos/db-coursework](https://github.com/itdaos/db-coursework)
+
 ## KA-97 info  
 
 ## KA-98 info  
