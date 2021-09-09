@@ -8,6 +8,8 @@
 
 ## KA-96 info
 
+- Serhii Biruk, *"Database for Clinic Management System"* [niubility-57/db-clinic-management](https://github.com/niubility-57/db-clinic-management)
+
 ## KA-97 info  
 
 ## KA-98 info  
