@@ -8,7 +8,7 @@
 
 ## KA-96 info
 
-- Vitkovskyi Danylo, *"DanikVitek GitHub"* [link](https://github.com/DanikVitek)
+- Vitkovskyi Danylo, *"Minecraft plugins database"* [DanikVitek/Data-Bases-Course-Project](https://github.com/DanikVitek/Data-Bases-Course-Project)
 
 ## KA-97 info  
 
