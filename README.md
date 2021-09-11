@@ -8,6 +8,8 @@
 
 ## KA-96 info
 
+- Vitkovskyi Danylo, *"Minecraft plugins database"* [DanikVitek/Databases-Course-Project](https://github.com/DanikVitek/Databases-Course-Project)
+
 ## KA-97 info  
 
 ## KA-98 info  
