@@ -10,6 +10,8 @@
 
 - Vitkovskyi Danylo, *"Minecraft plugins database"* [DanikVitek/Databases-Course-Project](https://github.com/DanikVitek/Databases-Course-Project)
 
+- Hapon Maksym, *"Employee Management System"* [Employee Management System](https://github.com/hap0n/employee-management-system)
+
 ## KA-97 info  
 
 ## KA-98 info  
