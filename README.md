@@ -9,6 +9,7 @@
 ## KA-96 info
 
 - Perviy Mykhailo, **Online Gallery Management System** | [itdaos/db-coursework](https://github.com/itdaos/db-coursework)
+- Vitkovskyi Danylo, *"Minecraft plugins database"* [DanikVitek/Databases-Course-Project](https://github.com/DanikVitek/Databases-Course-Project)
 
 ## KA-97 info  
 
