@@ -15,5 +15,7 @@
 
 ## KA-98 info  
 
+- Bozhko Dima, *"Logistic ondemand system"* [DIMANICH1488/course-3-database-project](https://github.com/DIMANICH1488/course-3-database-project)
+
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome]: https://github.com/sindresorhus/awesome
