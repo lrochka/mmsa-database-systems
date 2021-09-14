@@ -11,7 +11,9 @@
 2. Serhii Biruk, *"Database for Clinic Management System"* [niubility-57/db-clinic-management](https://github.com/niubility-57/db-clinic-management)
 4. Vitkovskyi Danylo, *"Minecraft plugins database"* [DanikVitek/Databases-Course-Project](https://github.com/DanikVitek/Databases-Course-Project)  
 5. Hapon Maksym, *"Employee Management System"* [Employee Management System](https://github.com/hap0n/employee-management-system)  
+18. Pavlenko Ivan, *"Family Club Management System"* [Family Club Management System](https://github.com/Elv4ra/family-club-management-system)  
 19. Perviy Mykhailo, *"Online Gallery Management System"* | [itdaos/db-coursework](https://github.com/itdaos/db-coursework)  
+
 
 ## KA-97 info  
 
