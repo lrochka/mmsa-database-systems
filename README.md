@@ -19,6 +19,7 @@
 
 ## KA-97 info  
 
+14. Tryhub Artem, *"Online Tournament Table"* [Tournament-Table](https://github.com/Smurfik997/tournament-table)  
 16. Tsaryk Alina, *"Dance Studio Management System"* [Dance-Studio](https://github.com/AlyaTsaryk/Dance-Studio.git)  
 
 ## KA-98 info  
