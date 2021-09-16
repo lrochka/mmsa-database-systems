@@ -19,6 +19,8 @@
 
 ## KA-97 info  
 
+16. Tsaryk Alina, *"Dance Studio Management System"* [Dance-Studio](https://github.com/AlyaTsaryk/Dance-Studio.git)  
+
 ## KA-98 info  
 
 2. Bozhko Dima, *"Logistic ondemand system"* [DIMANICH1488/course-3-database-project](https://github.com/DIMANICH1488/course-3-database-project)  
