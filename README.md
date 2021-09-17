@@ -15,7 +15,7 @@
 16. Mayevska Katerina, *"Kids' store management system"* [Kids' store management system](https://github.com/KaterinaMayevska/kids-store-management-system)  
 18. Pavlenko Ivan, *"Family Club Management System"* [Family Club Management System](https://github.com/Elv4ra/family-club-management-system)  
 19. Perviy Mykhailo, *"Online Gallery Management System"* | [itdaos/db-coursework](https://github.com/itdaos/db-coursework)  
-
+24. Sokolenko Sergey, *"Database for Pizzeria Managment System"* [SokolSerge/course-work](https://github.com/SokolSerge/course-work)
 
 ## KA-97 info  
 
