@@ -30,6 +30,7 @@
 2. Bozhko Dima, *"Logistic ondemand system"* [DIMANICH1488/course-3-database-project](https://github.com/DIMANICH1488/course-3-database-project)
 4. Burnevska Mariana, *"SpaceX agensy system"* [maryanabraun/SpaceX-agency-system](https://github.com/maryanabraun/SpaceX-agency-system)
 9. Ivashova Anastasia, *"Pizza delivery"* [Pizza delivery](https://github.com/NastiaIvashova/pizza-delivery)  
+13. Lavrinenko Veronika *"Music school"* [Music school](https://github.com/veronyaa/music-school.git)  
 15. Pustovoit Pavel, *"ARVM: cultural heritage"* [ARVM: cultural heritage](https://github.com/PavelPustovoit/arvm-heritage.git)  
 
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
