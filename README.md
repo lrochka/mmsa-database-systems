@@ -32,6 +32,6 @@
 4. Burnevska Mariana, *"SpaceX agensy system"* [maryanabraun/SpaceX-agency-system](https://github.com/maryanabraun/SpaceX-agency-system)
 9. Ivashova Anastasia, *"Pizza delivery"* [Pizza delivery](https://github.com/NastiaIvashova/pizza-delivery)  
 15. Pustovoit Pavel, *"ARVM: cultural heritage"* [ARVM: cultural heritage](https://github.com/PavelPustovoit/arvm-heritage.git)  
-21. Shulienin Oleksandr, *"Find your teammates in DOTA 2"*[Team up](https://github.com/BlindFa1th/find-your-teammates-in-dota-2.git)  
+
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome]: https://github.com/sindresorhus/awesome
