@@ -33,6 +33,7 @@
 9. Ivashova Anastasia, *"Pizza delivery"* [Pizza delivery](https://github.com/NastiaIvashova/pizza-delivery)  
 13. Lavrinenko Veronika *"Music school"* [Music school](https://github.com/veronyaa/music-school.git)  
 15. Pustovoit Pavel, *"ARVM: cultural heritage"* [ARVM: cultural heritage](https://github.com/PavelPustovoit/arvm-heritage.git)  
+17. Supruniuk Julia, *"Taxi call"* [Taxi call](https://github.com/supruniiuk/db-coursework)  
 
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome]: https://github.com/sindresorhus/awesome
