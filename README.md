@@ -28,6 +28,7 @@
 14. Tryhub Artem, *"Online Tournament Table"* [Tournament-Table](https://github.com/Smurfik997/tournament-table)  
 15. Trotsyuk Roman, *"A site with information about movies"* [Movies_info](https://github.com/trocukroma27/movies_info.git)
 16. Tsaryk Alina, *"Dance Studio Management System"* [Dance-Studio](https://github.com/AlyaTsaryk/Dance-Studio.git)  
+19. Yarovyi Serhii, *"Musical collection database"* [My_Musical_Collection](https://github.com/Yarovyi-Serhii-KPI/My_Musical_Collection)
 
 ## KA-98 info  
 
