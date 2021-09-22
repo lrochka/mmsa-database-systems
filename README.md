@@ -22,8 +22,9 @@
 25. Tereshchenko Denys, *"Employee Management System"* [Employee Management System](https://github.com/hap0n/employee-management-system)  
 28. Shevtsov Andrii, *"IASA Student Council web app"* [PrometheusUA/IASA-SC-app](https://github.com/PrometheusUA/IASA-SC-app)  
 
-## KA-97 info  
-
+## KA-97 info 
+ 
+5. Ielysieieva Anastasiia, *"Online women's clothing store"* [Allure_shop](https://github.com/ElisAnastasiia/Allure_shop)  
 6. Andrii Ivanov, *"Online database of information related to films"* [Lumiere](https://github.com/okgoogle3/Lumiere)
 14. Tryhub Artem, *"Online Tournament Table"* [Tournament-Table](https://github.com/Smurfik997/tournament-table)  
 15. Trotsyuk Roman, *"A site with information about movies"* [Movies_info](https://github.com/trocukroma27/movies_info.git)
