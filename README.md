@@ -26,9 +26,12 @@
  
 5. Ielysieieva Anastasiia, *"Online women's clothing store"* [Allure_shop](https://github.com/ElisAnastasiia/Allure_shop)  
 6. Andrii Ivanov, *"Online database of information related to films"* [Lumiere](https://github.com/okgoogle3/Lumiere)
+11. Ragozin Ilya, *"Trade skins platform for CS: GO"* [Skins Profiteer](https://github.com/IliyaRahozin/Skins-Profiteer)  
 14. Tryhub Artem, *"Online Tournament Table"* [Tournament-Table](https://github.com/Smurfik997/tournament-table)  
 15. Trotsyuk Roman, *"A site with information about movies"* [Movies_info](https://github.com/trocukroma27/movies_info.git)
 16. Tsaryk Alina, *"Dance Studio Management System"* [Dance-Studio](https://github.com/AlyaTsaryk/Dance-Studio.git)  
+18. Sheruda Andrew, *"Online library"* [Online_library](https://github.com/andrey28414/Online_library)  
+19. Yarovyi Serhii, *"Musical collection database"* [My_Musical_Collection](https://github.com/Yarovyi-Serhii-KPI/My_Musical_Collection) 
 
 ## KA-98 info  
 
@@ -38,6 +41,7 @@
 13. Lavrinenko Veronika *"Music school"* [Music school](https://github.com/veronyaa/music-school.git)  
 15. Pustovoit Pavel, *"ARVM: cultural heritage"* [ARVM: cultural heritage](https://github.com/PavelPustovoit/arvm-heritage.git)  
 17. Supruniuk Julia, *"Taxi call"* [Taxi call](https://github.com/supruniiuk/db-coursework)  
+21. Shulienin Oleksandr, *"Find your teammates in DOTA 2"* [Team up](https://github.com/BlindFa1th/find-your-teammates-in-dota-2.git)  
 
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome]: https://github.com/sindresorhus/awesome
