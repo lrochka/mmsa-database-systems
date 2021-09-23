@@ -31,7 +31,7 @@
 16. Tsaryk Alina, *"Dance Studio Management System"* [Dance-Studio](https://github.com/AlyaTsaryk/Dance-Studio.git)  
 18. Sheruda Andrew, *"Online library"* [Online_library](https://github.com/andrey28414/Online_library)  
 19. Yarovyi Serhii, *"Musical collection database"* [My_Musical_Collection](https://github.com/Yarovyi-Serhii-KPI/My_Musical_Collection) 
-
+13. Ruchkin Alexander *"Analysis of the activities of the insurance company"* [Insurance-company](https://github.com/ClearHed/Insurance-company)
 ## KA-98 info  
 
 2. Bozhko Dima, *"Logistic ondemand system"* [DIMANICH1488/course-3-database-project](https://github.com/DIMANICH1488/course-3-database-project)
