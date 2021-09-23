@@ -28,6 +28,7 @@
 6. Andrii Ivanov, *"Online database of information related to films"* [Lumiere](https://github.com/okgoogle3/Lumiere)
 11. Ragozin Ilya, *"Trade skins platform for CS: GO"* [Skins Profiteer](https://github.com/IliyaRahozin/Skins-Profiteer)  
 12. Razumovska Yelyzaveta, *"Handmade online store"* [Handmade online store](https://github.com/geekata/handmade-online-store.git)
+13. Ruchkin Alexander *"Analysis of the activities of the insurance company"* [Insurance-company](https://github.com/ClearHed/Insurance-company)
 14. Tryhub Artem, *"Online Tournament Table"* [Tournament-Table](https://github.com/Smurfik997/tournament-table)  
 15. Trotsyuk Roman, *"A site with information about movies"* [Movies_info](https://github.com/trocukroma27/movies_info.git)
 16. Tsaryk Alina, *"Dance Studio Management System"* [Dance-Studio](https://github.com/AlyaTsaryk/Dance-Studio.git)  
