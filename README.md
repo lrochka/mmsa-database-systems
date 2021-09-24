@@ -18,6 +18,7 @@
 17. Mosiychuk Yulia, *"Pet Shop Management System"* [Pet Shop Management System](https://github.com/yulia-mos/pet-shop)  
 18. Pavlenko Ivan, *"Family Club Management System"* [Family Club Management System](https://github.com/Elv4ra/family-club-management-system)  
 19. Perviy Mykhailo, *"Online Gallery Management System"* | [itdaos/db-coursework](https://github.com/itdaos/db-coursework)  
+22. Samsonenko Anna, *"Dancing Camp Management System"* [lamourfouuuu17/Dancing-Camp-Management-System](https://github.com/lamourfouuuu17/Dancing-Camp-Management-System.git)
 24. Sokolenko Sergey, *"Database for Pizzeria Managment System"* [SokolSerge/course-work](https://github.com/SokolSerge/course-work)
 25. Tereshchenko Denys, *"Employee Management System"* [Employee Management System](https://github.com/hap0n/employee-management-system)  
 28. Shevtsov Andrii, *"IASA Student Council web app"* [PrometheusUA/IASA-SC-app](https://github.com/PrometheusUA/IASA-SC-app)  
