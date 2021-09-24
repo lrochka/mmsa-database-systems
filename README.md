@@ -41,6 +41,7 @@
 9. Ivashova Anastasia, *"Pizza delivery"* [Pizza delivery](https://github.com/NastiaIvashova/pizza-delivery)  
 13. Lavrinenko Veronika *"Music school"* [Music school](https://github.com/veronyaa/music-school.git)  
 15. Pustovoit Pavel, *"ARVM: cultural heritage"* [ARVM: cultural heritage](https://github.com/PavelPustovoit/arvm-heritage.git)  
+16. Stepashko Alina, *"The Art school"* [The Art school](https://github.com/al1na123/the-art-school.git)  
 17. Supruniuk Julia, *"Taxi call"* [Taxi call](https://github.com/supruniiuk/db-coursework)  
 21. Shulienin Oleksandr, *"Find your teammates in DOTA 2"* [Team up](https://github.com/BlindFa1th/find-your-teammates-in-dota-2.git)  
 
