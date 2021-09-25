@@ -27,6 +27,7 @@
 
 1. Bondarenko Daniil, *"Sport betting service"* [Sport Bets](https://github.com/danbond02/Sport-Bets)
 6. Andrii Ivanov, *"Online database of information related to films"* [Lumiere](https://github.com/okgoogle3/Lumiere)
+7. Koval Maksym, *"Assistant System for monitoring organ and tissue transplants"* [ASMOTT](https://github.com/MultiSmith/ASMOTT)  
 11. Ragozin Ilya, *"Trade skins platform for CS: GO"* [Skins Profiteer](https://github.com/IliyaRahozin/Skins-Profiteer)  
 12. Razumovska Yelyzaveta, *"Handmade online store"* [Handmade online store](https://github.com/geekata/handmade-online-store.git)
 13. Ruchkin Alexander *"Analysis of the activities of the insurance company"* [Insurance-company](https://github.com/ClearHed/Insurance-company)
