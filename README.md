@@ -19,6 +19,7 @@
 17. Mosiychuk Yulia, *"Pet Shop Management System"* [Pet Shop Management System](https://github.com/yulia-mos/pet-shop)  
 18. Pavlenko Ivan, *"Family Club Management System"* [Family Club Management System](https://github.com/Elv4ra/family-club-management-system)  
 19. Perviy Mykhailo, *"Online Gallery Management System"* | [itdaos/db-coursework](https://github.com/itdaos/db-coursework)  
+22. Skoroshcheka Alina, *"Anti-Cafe Management System"*[Anti-Cafe Management System](https://github.com/AlinaSk0r/anti-cafe-management-system.git)  
 24. Sokolenko Sergey, *"Database for Pizzeria Managment System"* [SokolSerge/course-work](https://github.com/SokolSerge/course-work)
 25. Tereshchenko Denys, *"Employee Management System"* [Employee Management System](https://github.com/hap0n/employee-management-system)  
 27. Chernetskiy Oleksii, *"Bank Management System"* [Bank Management System](https://github.com/Scortike/bank-management-system)  
