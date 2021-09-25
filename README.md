@@ -21,6 +21,7 @@
 19. Perviy Mykhailo, *"Online Gallery Management System"* | [itdaos/db-coursework](https://github.com/itdaos/db-coursework)  
 24. Sokolenko Sergey, *"Database for Pizzeria Managment System"* [SokolSerge/course-work](https://github.com/SokolSerge/course-work)
 25. Tereshchenko Denys, *"Employee Management System"* [Employee Management System](https://github.com/hap0n/employee-management-system)  
+27. Chernetskiy Oleksii, *"Bank Management System"* [Bank Management System](https://github.com/Scortike/bank-management-system)  
 28. Shevtsov Andrii, *"IASA Student Council web app"* [PrometheusUA/IASA-SC-app](https://github.com/PrometheusUA/IASA-SC-app)  
 
 ## KA-97 info  
