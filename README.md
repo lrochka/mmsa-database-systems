@@ -16,6 +16,7 @@
 8. Zakharchyn Nadiia, *"Gym Management System"* [Gym Management System](https://github.com/nadyazakharchyn/gym-management-system.git)
 9. Zelikman Borys, *"Online Cinema Management System"* [Online Cinema Management System](https://github.com/kil1menaz/online_cinema_db)
 10. Zyblyi Yevhenii, *"Online bookstore management system"* [Online bookstore management system](https://github.com/Yevhenii-Zyblyi/online-bookstore-management-system)  
+12. Krukovskyi Valerii, *"Tournament Platform System"* [Tournament-Platform-System](https://github.com/Valeruss/Tournament-Platform-System)  
 16. Mayevska Katerina, *"Kids' store management system"* [Kids' store management system](https://github.com/KaterinaMayevska/kids-store-management-system)  
 17. Mosiychuk Yulia, *"Pet Shop Management System"* [Pet Shop Management System](https://github.com/yulia-mos/pet-shop)  
 18. Pavlenko Ivan, *"Family Club Management System"* [Family Club Management System](https://github.com/Elv4ra/family-club-management-system)  
