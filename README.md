@@ -24,6 +24,7 @@
 25. Tereshchenko Denys, *"Employee Management System"* [Employee Management System](https://github.com/hap0n/employee-management-system)  
 27. Chernetskiy Oleksii, *"Bank Management System"* [Bank Management System](https://github.com/Scortike/bank-management-system)  
 28. Shevtsov Andrii, *"IASA Student Council web app"* [PrometheusUA/IASA-SC-app](https://github.com/PrometheusUA/IASA-SC-app)  
+29. Liudomyrskyi Yurii, *"Mathematical Forum"* [Mathematical Forum](https://github.com/linkdew/db-coursework)  
 
 ## KA-97 info  
 
