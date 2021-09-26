@@ -28,6 +28,7 @@
 ## KA-97 info  
 
 1. Bondarenko Daniil, *"Sport betting service"* [Sport Bets](https://github.com/danbond02/Sport-Bets)
+4. Gritsay Taras, *"Veterinary clinic"* [Veterinary clinic](https://github.com/tagros27/veterinary_clinic.git)
 5. Ielysieieva Anastasiia, *"Online women's clothing store"* [Allure shop](https://github.com/ElisAnastasiia/Allure_shop)  
 6. Andrii Ivanov, *"Online database of information related to films"* [Lumiere](https://github.com/okgoogle3/Lumiere)
 7. Koval Maksym, *"Assistant System for monitoring organ and tissue transplants"* [ASMOTT](https://github.com/MultiSmith/ASMOTT)  
@@ -39,7 +40,6 @@
 16. Tsaryk Alina, *"Dance Studio Management System"* [Dance-Studio](https://github.com/AlyaTsaryk/Dance-Studio.git)  
 18. Sheruda Andrew, *"Online library"* [Online_library](https://github.com/andrey28414/Online_library)  
 19. Yarovyi Serhii, *"Musical collection database"* [My_Musical_Collection](https://github.com/Yarovyi-Serhii-KPI/My_Musical_Collection) 
-20. Gritsay Taras, *"Veterinary clinic"* [Veterinary clinic](https://github.com/tagros27/veterinary_clinic.git)
 
 ## KA-98 info  
 
