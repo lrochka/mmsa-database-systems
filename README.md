@@ -27,8 +27,6 @@
 
 ## KA-97 info  
 
-
-6. Andrii Ivanov, *"Online database of information related to films"* [Lumiere](https://github.com/okgoogle3/Lumiere)  
 1. Bondarenko Daniil, *"Sport betting service"* [Sport Bets](https://github.com/danbond02/Sport-Bets)
 5. Ielysieieva Anastasiia, *"Online women's clothing store"* [Allure shop](https://github.com/ElisAnastasiia/Allure_shop)  
 6. Andrii Ivanov, *"Online database of information related to films"* [Lumiere](https://github.com/okgoogle3/Lumiere)
