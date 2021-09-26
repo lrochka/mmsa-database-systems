@@ -31,6 +31,7 @@
 ## KA-97 info  
 
 1. Bondarenko Daniil, *"Sport betting service"* [Sport Bets](https://github.com/danbond02/Sport-Bets)
+2. Burkov Anton, *"Tasks and equipment management system for events"* [Events Managment](https://github.com/KepBuran/Events_Managment)
 5. Ielysieieva Anastasiia, *"Online women's clothing store"* [Allure shop](https://github.com/ElisAnastasiia/Allure_shop)  
 6. Andrii Ivanov, *"Online database of information related to films"* [Lumiere](https://github.com/okgoogle3/Lumiere)
 7. Koval Maksym, *"Assistant System for monitoring organ and tissue transplants"* [ASMOTT](https://github.com/MultiSmith/ASMOTT)  
