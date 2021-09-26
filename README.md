@@ -53,6 +53,7 @@
 7. Denhub Daria, *"Project Management System"* [Project Management System](https://github.com/dariaaaaaa/project-management-system)  
 9. Ivashova Anastasia, *"Pizza delivery"* [Pizza delivery](https://github.com/NastiaIvashova/pizza-delivery)  
 11. Koval Pavlo, *"Car dealership system"* [Car Dealership System](https://github.com/PavloKoval737/car-dealership.git)  
+12. Krushelniczkij Illia, *"Film reviews"* [Film reviews](https://github.com/demined322/Film_reviews.git)  
 13. Lavrinenko Veronika *"Music school"* [Music school](https://github.com/veronyaa/music-school.git)  
 14. Mezhevych Anna, *"Booking Photographer"* [Booking Photographer](https://github.com/anna-mez/booking-photographer)  
 15. Pustovoit Pavel, *"ARVM: cultural heritage"* [ARVM: cultural heritage](https://github.com/PavelPustovoit/arvm-heritage.git)  
