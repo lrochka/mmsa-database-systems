@@ -45,7 +45,8 @@
 
 ## KA-98 info  
 
-2. Bozhko Dima, *"Logistic ondemand system"* [DIMANICH1488/course-3-database-project](https://github.com/DIMANICH1488/course-3-database-project)
+2. Bozhko Dima, *"Logistic ondemand system"* [DIMANICH1488/course-3-database-project](https://github.com/DIMANICH1488/course-3-database-project)  
+3. Borodavko Vitalik *"Real-Estate Market"* [Real-estate selector](https://github.com/JuniorIASAProgrammer/real-estate-market.git)  
 4. Burnevska Mariana, *"SpaceX agensy system"* [maryanabraun/SpaceX-agency-system](https://github.com/maryanabraun/SpaceX-agency-system)
 5. But Ihor, *"Kyiv Cyber Club"* [Kyiv Cyber Club](https://github.com/Ihor333/cyberclub-management-system)  
 7. Denhub Daria, *"Project Management System"* [Project Management System](https://github.com/dariaaaaaa/project-management-system)  
