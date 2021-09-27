@@ -12,6 +12,7 @@
 3. Artem Burdeinyi *"Airport Management System"* [ArtemBurd/Databases_project](https://github.com/ArtemBurd/Databases_project)  
 4. Vitkovskyi Danylo, *"Minecraft plugins database"* [DanikVitek/Databases-Course-Project](https://github.com/DanikVitek/Databases-Course-Project)  
 5. Hapon Maksym, *"Employee Management System"* [Employee Management System](https://github.com/hap0n/employee-management-system)  
+6. Hnipa Anton, *Population and property managment system* [guzzy-dev/population-and-property-managment-system](https://github.com/guzzy-dev/population-and-property-managment-system)
 7. Didok Taras, *"Public Library Management System"* [Public Library Management System](https://github.com/tdidok/public-library-management-system)  
 8. Zakharchyn Nadiia, *"Gym Management System"* [Gym Management System](https://github.com/nadyazakharchyn/gym-management-system.git)
 9. Zelikman Borys, *"Online Cinema Management System"* [Online Cinema Management System](https://github.com/kil1menaz/online_cinema_db)
