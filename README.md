@@ -61,6 +61,7 @@
 16. Stepashko Alina, *"The Art school"* [The Art school](https://github.com/al1na123/the-art-school.git)  
 17. Supruniuk Julia, *"Taxi call"* [Taxi call](https://github.com/supruniiuk/db-coursework)  
 18. Tkachenko Maxim, *"Chess Database"* [Chess-Database](https://github.com/tkchmax/Chess-Database)  
+19. Shaforost Anna, *"IoT Platform"* [IoT Platform](https://github.com/ashaforost/IoT-platform)  
 20. Shelepalo Danylo, *"German cars sale"* [German cars sale](https://github.com/ShelepaloDanulo/german-cars-sale.git)  
 21. Shulienin Oleksandr, *"Find your teammates in DOTA 2"* [Team up](https://github.com/BlindFa1th/find-your-teammates-in-dota-2.git)  
 
