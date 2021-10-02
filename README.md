@@ -15,6 +15,7 @@
 7. Didok Taras, *"Public Library Management System"* [Public Library Management System](https://github.com/tdidok/public-library-management-system)  
 8. Zakharchyn Nadiia, *"Gym Management System"* [Gym Management System](https://github.com/nadyazakharchyn/gym-management-system.git)
 10. Zyblyi Yevhenii, *"Online bookstore management system"* [Online bookstore management system](https://github.com/Yevhenii-Zyblyi/online-bookstore-management-system)  
+15. Liudomyrskyi Yurii, *"Mathematical Forum"* | [Mathematical Forum](https://github.com/linkdew/db-coursework)   
 16. Mayevska Katerina, *"Kids' store management system"* [Kids' store management system](https://github.com/KaterinaMayevska/kids-store-management-system)  
 17. Mosiychuk Yulia, *"Pet Shop Management System"* [Pet Shop Management System](https://github.com/yulia-mos/pet-shop)  
 18. Pavlenko Ivan, *"Family Club Management System"* [Family Club Management System](https://github.com/Elv4ra/family-club-management-system)  
@@ -24,7 +25,7 @@
 25. Tereshchenko Denys, *"Employee Management System"* [Employee Management System](https://github.com/hap0n/employee-management-system)  
 27. Chernetskiy Oleksii, *"Bank Management System"* [Bank Management System](https://github.com/Scortike/bank-management-system)  
 28. Shevtsov Andrii, *"IASA Student Council web app"* [PrometheusUA/IASA-SC-app](https://github.com/PrometheusUA/IASA-SC-app)  
-29. Liudomyrskyi Yurii, *"Mathematical Forum"* [Mathematical Forum](https://github.com/linkdew/db-coursework)  
+
 
 ## KA-97 info  
 
