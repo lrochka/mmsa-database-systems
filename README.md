@@ -57,7 +57,7 @@
 5. But Ihor, *"Kyiv Cyber Club"* [Kyiv Cyber Club](https://github.com/Ihor333/cyberclub-management-system)  
 7. Denhub Daria, *"Project Management System"* [Project Management System](https://github.com/dariaaaaaa/project-management-system)  
 9. Ivashova Anastasia, *"Pizza delivery"* [Pizza delivery](https://github.com/NastiaIvashova/pizza-delivery) 
-10. Kaharlytskyi Roman, *"KPI Student Campus system"* [Chords Bot for Telegram](https://github.com/r4bc1/kpi-student-campus-system) 
+10. Kaharlytskyi Roman, *"KPI Student Campus system"* [KPI Student Campus system](https://github.com/r4bc1/kpi-student-campus-system) 
 11. Koval Pavlo, *"Car dealership system"* [Car Dealership System](https://github.com/PavloKoval737/car-dealership.git)  
 12. Krushelniczkij Illia, *"Film reviews"* [Film reviews](https://github.com/demined322/Film_reviews.git)  
 13. Lavrinenko Veronika *"Music school"* [Music school](https://github.com/veronyaa/music-school.git)  
