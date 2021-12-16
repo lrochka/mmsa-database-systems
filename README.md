@@ -8,6 +8,7 @@
 
 ## KA-96 info
 
+1. Antonov Daniil, *"Theatre database"* [byebabysayonara/db_theatre](https://github.com/byebabysayonara/db_theatre)
 2. Serhii Biruk, *"Database for Clinic Management System"* [niubility-57/db-clinic-management](https://github.com/niubility-57/db-clinic-management)   
 3. Artem Burdeinyi *"Airport Management System"* [ArtemBurd/Databases_project](https://github.com/ArtemBurd/Databases_project)  
 4. Vitkovskyi Danylo, *"Minecraft plugins database"* [DanikVitek/Databases-Course-Project](https://github.com/DanikVitek/Databases-Course-Project)  
