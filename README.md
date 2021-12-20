@@ -59,7 +59,7 @@
 9. Ivashova Anastasia, *"Pizza delivery"* [Pizza delivery](https://github.com/NastiaIvashova/pizza-delivery) 
 10. Kaharlytskyi Roman, *"Chords Bot for Telegram"* [Chords Bot for Telegram](https://github.com/r4bc1/chords-bot) 
 11. Koval Pavlo, *"Car dealership system"* [Car Dealership System](https://github.com/PavloKoval737/car-dealership.git)  
-12. Krushelniczkij Illia, *"Film reviews"* [Film reviews](https://github.com/demined322/Film_reviews.git)  
+12. Krushelniczkij Illia, *"Educational process support system"* [Educational process support system](https://github.com/demined322/educational-process-support-system.git)  
 13. Lavrinenko Veronika *"Hairdressing salon"* [Hairdressing Salon ](https://github.com/veronyaa/hairdressing-salon.git)  
 14. Mezhevych Anna, *"Booking Photographer"* [Booking Photographer](https://github.com/anna-mez/booking-photographer)  
 15. Pustovoit Pavel, *"ARVM: cultural heritage"* [ARVM: cultural heritage](https://github.com/PavelPustovoit/arvm-heritage.git)  
