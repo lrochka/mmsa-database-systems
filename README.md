@@ -6,7 +6,7 @@
 
 - Afanasieva Iryna, *"Database Systems Course"* topic description [lrochka/mmsa-database-systems](https://github.com/lrochka/mmsa-database-systems)
 
-## KA-06 info
+## KA-06 info 
 
 1. Aliiev Ramin, *"Guitar School"* [Ramelian/Guitar-School](https://github.com/Ramelian/Guitar-School)
 5. Tymofii Bondarenko, *"Import cars database"* [timofeyka25/import-cars-database](https://github.com/timofeyka25/import-cars-database)
@@ -14,6 +14,7 @@
 11. Druz Vladislav, *"Flight School"* [Danke3Lem/Flight-School](https://github.com/Danke3Lem/Flight-School)
 17. Bogdan Kochedikov, *"Crypto Platform"* [bkochedikov/CryptoPlatform](https://github.com/bkochedikov/CryptoPlatform)
 23. Skorobogatov Stanislav KA-06, *"Musical instruments store"* [Stas293/Musical-instruments-store](https://github.com/Stas293/Musical-instruments-store)
+25. Sulima Ivan, *"Manga database"* [SuviGod/MangaDatabase](https://github.com/SuviGod/MangaDatabase)
 27. Shvets Vitalii, *"Game rating service"* [Glekk/game-rating-service](https://github.com/Glekk/game-rating-service) 
 
 ## KA-07 info
