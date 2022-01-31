@@ -10,8 +10,6 @@
 
 ## KA-07 info
 
-Skoropadskii Artem - Unreal Engine 4 Login/Inventory System
-
 ## KA-08 info
 
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
