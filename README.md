@@ -8,7 +8,9 @@
 
 ## KA-06 info
 
-## KA-07 info
+## KA-07 info 
+
+Shevchuk Vladyslav CyberSport Database
 
 ## KA-08 info
 
