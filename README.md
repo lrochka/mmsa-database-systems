@@ -10,7 +10,7 @@
 
 ## KA-07 info
 
-Skoropadskii Artem - Unreal Engine 4 Login/Inventory system
+Skoropadskii Artem - Step by step survival game
 
 ## KA-08 info
 
