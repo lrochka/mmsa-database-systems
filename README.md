@@ -10,7 +10,7 @@
 
 ## KA-07 info
 
-Skoropadskii Artem - Step by step survival game
+Skoropadskii Artem - Step by step survival game 
 
 ## KA-08 info
 
