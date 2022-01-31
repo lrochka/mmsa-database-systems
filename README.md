@@ -10,7 +10,7 @@
 
 ## KA-07 info
 
-Vantik Oleksii
+Vantik Oleksii waterpolo players database
 
 ## KA-08 info
 
