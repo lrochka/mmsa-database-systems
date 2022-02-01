@@ -7,6 +7,7 @@
 - Afanasieva Iryna, *"Database Systems Course"* [lrochka/mmsa-database-systems](https://github.com/lrochka/mmsa-database-systems)
 
 ## KA-06 info
+Koboziev Vladyslav - Maritime Company
 
 ## KA-07 info
 
