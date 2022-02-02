@@ -8,6 +8,8 @@
 
 ## KA-06 info
 
+- Tren Artem - *"Railway Station"*
+
 ## KA-07 info
 
 ## KA-08 info
