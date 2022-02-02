@@ -8,6 +8,8 @@
 
 ## KA-06 info
 
+23. Skorobogatov Stanislav KA-06, *"Musical instruments store"* [Stas293/Musical-instruments-store](https://github.com/Stas293/Musical-instruments-store)
+
 ## KA-07 info
 
 ## KA-08 info
