@@ -10,6 +10,8 @@
 
 ## KA-07 info
 
+01 Byl Kyrylo KA-07, *"Tutoring services"* [pusszka/Tutoring-services](https://github.com/pusszka/Tutoring-services)
+
 ## KA-08 info
 
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
