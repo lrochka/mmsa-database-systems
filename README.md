@@ -10,6 +10,8 @@
 
 ## KA-07 info
 
+16 Nikolaychuk Olexandr, *"Football Club database"* [lMirAliSl/Football-Club-database](https://github.com/lMirAliSl/Football-Club-database)
+
 ## KA-08 info
 
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
