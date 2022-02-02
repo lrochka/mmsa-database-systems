@@ -10,7 +10,7 @@
 
 ## KA-07 info 
 
-Shevchuk Vladyslav CyberSport Database
+ Shevchuk Vladyslav, "CyberSport Database" [DDarel/CourseWorkDataBaseShevchuk](https://https://github.com/DDarel/CourseWorkDataBaseShevchuk)
 
 ## KA-08 info
 
