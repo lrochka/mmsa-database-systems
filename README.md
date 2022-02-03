@@ -7,7 +7,9 @@
 - Afanasieva Iryna, *"Database Systems Course"* [lrochka/mmsa-database-systems](https://github.com/lrochka/mmsa-database-systems)
 
 ## KA-06 info
-
+5. Tymofii Bondarenko, *"Import cars database"* 
+[timofeyka25/import-cars-database]
+(https://github.com/timofeyka25/import-cars-database)
 ## KA-07 info
 
 ## KA-08 info
