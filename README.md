@@ -10,9 +10,11 @@
 
 ## KA-07 info
 
+14. Max Moskalenko, *"Commodity Market"* [MaxMoskalenko/database-course-work](https://github.com/MaxMoskalenko/database-course-work)
 29. Shevchuk Vladyslav, *"CyberSport Database"* [DDarel/CourseWorkDataBaseShevchuk](https://https://github.com/DDarel/CourseWorkDataBaseShevchuk)
 
 ## KA-08 info
+- Dmytro Podobied *"Car dealership"* [dmpodob/car-dealership](https://github.com/dmpodob/car-dealership)
 
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome]: https://github.com/sindresorhus/awesome
