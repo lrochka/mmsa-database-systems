@@ -7,6 +7,7 @@
 - Afanasieva Iryna, *"Database Systems Course"* topic [lrochka/mmsa-database-systems](https://github.com/lrochka/mmsa-database-systems)
 
 ## KA-06 info
+5. Tymofii Bondarenko, *"Import cars database"* [timofeyka25/import-cars-database](https://github.com/timofeyka25/import-cars-database)
 
 23. Skorobogatov Stanislav KA-06, *"Musical instruments store"* [Stas293/Musical-instruments-store](https://github.com/Stas293/Musical-instruments-store)
 
