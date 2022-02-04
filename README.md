@@ -19,6 +19,7 @@
 
 ## KA-08 info
 
+1. Akymenko Andrii, *"Medicines Registration Database"* [ap-akymenko/database-coursework](https://github.com/ap-akymenko/database-coursework)
 7. Yevenko Mykhaylo, *"Stock Exchange Browser"* [Mevnk/stockExchange](https://github.com/Mevnk/stockExchange)
 16. Dmytro Podobied *"Car dealership"* [dmpodob/car-dealership](https://github.com/dmpodob/car-dealership)
 
