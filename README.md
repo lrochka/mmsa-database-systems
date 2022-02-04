@@ -1,4 +1,7 @@
 @@ -4,15 +4,22 @@
+[![Awesome][icon-awesome]][awesome]
+
+# Database Systems Course  
 
 ## Lecturer's info  
 
