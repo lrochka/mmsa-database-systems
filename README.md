@@ -12,6 +12,7 @@
 
 ## KA-07 info
 14. Max Moskalenko, *"Commodity Market"* [MaxMoskalenko/database-course-work](https://github.com/MaxMoskalenko/database-course-work)
+23. Skoropadskii Artem, *"3D Model Database and Viewer"* [L1ghtboro/ThreeDModel-Database](https://github.com/L1ghtboro/ThreeDModel-Database)
 ## KA-08 info
 16. Dmytro Podobied *"Car dealership"* [dmpodob/car-dealership](https://github.com/dmpodob/car-dealership)
 
