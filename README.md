@@ -6,9 +6,13 @@
 
 - Afanasieva Iryna, *"Database Systems Course"* [lrochka/mmsa-database-systems](https://github.com/lrochka/mmsa-database-systems)
 
-## KA-06 info
+## KA-06 info 
 
-## KA-07 info
+## KA-07
+
+ 
+
+26. Oleg Ustimchik, *"comic book store"[olegustimchik/sdb_course_work](https://github.com/olegustimchik)
 
 ## KA-08 info
 
