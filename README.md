@@ -8,6 +8,7 @@
 
 ## KA-06 info
 
+1. Aliiev Ramin, *"Guitar School"* [Ramelian/Guitar-School](https://github.com/Ramelian/Guitar-School)
 5. Tymofii Bondarenko, *"Import cars database"* [timofeyka25/import-cars-database](https://github.com/timofeyka25/import-cars-database)
 7. Vergelyuk Alexander, *"Sports tourist club"* topic [Alex-Verg/Sports-turist-club](https://github.com/Alex-Verg/Sports-turist-club)
 23. Skorobogatov Stanislav KA-06, *"Musical instruments store"* [Stas293/Musical-instruments-store](https://github.com/Stas293/Musical-instruments-store)
