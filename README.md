@@ -15,6 +15,7 @@
 ## KA-07 info
 
 14. Max Moskalenko, *"Commodity Market"* [MaxMoskalenko/database-course-work](https://github.com/MaxMoskalenko/database-course-work)
+20. Rizun Volodymyr, *"Translation Dictionary"* [VolodymyrRizun/translation_Dictionary](https://github.com/VolodymyrRizun/translation_Dictionary)
 23. Skoropadskii Artem, *"3D Model Database and Viewer"* [L1ghtboro/ThreeDModel-Database](https://github.com/L1ghtboro/ThreeDModel-Database)
 
 ## KA-08 info
