@@ -11,6 +11,7 @@
 ## KA-07 info
 
 ## KA-08 info
+14. Anna Osovskaya, *"Library"* [annaosovskaya/library-database](https://github.com/annaosovskaya/library-database)
 
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome]: https://github.com/sindresorhus/awesome
