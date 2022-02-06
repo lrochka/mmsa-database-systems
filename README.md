@@ -14,6 +14,7 @@
 
 ## KA-07 info
 
+10. Korniichuk Serhii, *"Banking System"* [SerhiiKorniichuk1/Banking_system] (https://github.com/SerhiiKorniichuk1/Banking_system)
 14. Max Moskalenko, *"Commodity Market"* [MaxMoskalenko/database-course-work](https://github.com/MaxMoskalenko/database-course-work)
 23. Skoropadskii Artem, *"3D Model Database and Viewer"* [L1ghtboro/ThreeDModel-Database](https://github.com/L1ghtboro/ThreeDModel-Database)
 
