@@ -9,6 +9,7 @@
 ## KA-06 info
 
 ## KA-07 info
+4. Harts Mykola, *"Hardware Store"* [Tesolas/database-coursework](https://github.com/Tesolas/database-coursework)
 
 ## KA-08 info
 
