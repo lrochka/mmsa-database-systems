@@ -16,6 +16,7 @@
 
 14. Max Moskalenko, *"Commodity Market"* [MaxMoskalenko/database-course-work](https://github.com/MaxMoskalenko/database-course-work)
 23. Skoropadskii Artem, *"3D Model Database and Viewer"* [L1ghtboro/ThreeDModel-Database](https://github.com/L1ghtboro/ThreeDModel-Database)
+25. Trach Eugene, *"music platform"* [justEugene118/Music-platform](https://github.com/justEugene118/Music-platform)
 
 ## KA-08 info
 
