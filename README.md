@@ -13,7 +13,7 @@
 23. Skorobogatov Stanislav KA-06, *"Musical instruments store"* [Stas293/Musical-instruments-store](https://github.com/Stas293/Musical-instruments-store)
 
 ## KA-07 info
-
+1. Byl Kyrylo KA-07, *"Tutoring services"* [pusszka/Tutoring-services](https://github.com/pusszka/Tutoring-services)
 14. Max Moskalenko, *"Commodity Market"* [MaxMoskalenko/database-course-work](https://github.com/MaxMoskalenko/database-course-work)
 23. Skoropadskii Artem, *"3D Model Database and Viewer"* [L1ghtboro/ThreeDModel-Database](https://github.com/L1ghtboro/ThreeDModel-Database)
 
