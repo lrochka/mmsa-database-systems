@@ -13,6 +13,7 @@
 ## KA-07 info
 14. Max Moskalenko, *"Commodity Market"* [MaxMoskalenko/database-course-work](https://github.com/MaxMoskalenko/database-course-work)
 ## KA-08 info
+15. Panasiuk Ruslan *"Marketplace for freelance musicians"* [panasiuk-r/marketplce-for-musicians](https://github.com/panasiuk-r/marketplce-for-musicians) 
 16. Dmytro Podobied *"Car dealership"* [dmpodob/car-dealership](https://github.com/dmpodob/car-dealership)
 
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
