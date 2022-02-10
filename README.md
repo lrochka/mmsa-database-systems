@@ -22,8 +22,6 @@
 
 ## KA-08 info
 
-<<<<<<< HEAD
-
 1. Akymenko Andrii, *"Medicines Registration Database"* [ap-akymenko/database-coursework](https://github.com/ap-akymenko/database-coursework)
 2. Babych Marharyta, *"Real estate database"* [getcat-dev/Real-estate-database](https://github.com/getcat-dev/Real-estate-database)
 7. Yevenko Mykhaylo, *"Stock Exchange Browser"* [Mevnk/stockExchange](https://github.com/Mevnk/stockExchange)
