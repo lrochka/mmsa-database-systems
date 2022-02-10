@@ -19,6 +19,7 @@
 
 ## KA-08 info
 
+2. Babych Marharyta, *"Real estate database"* [getcat-dev/Real-estate-database](https://github.com/getcat-dev/Real-estate-database)
 7. Yevenko Mykhaylo, *"Stock Exchange Browser"* [Mevnk/stockExchange](https://github.com/Mevnk/stockExchange)
 16. Dmytro Podobied *"Car dealership"* [dmpodob/car-dealership](https://github.com/dmpodob/car-dealership)
 
