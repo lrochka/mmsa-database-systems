@@ -23,6 +23,7 @@
 ## KA-08 info
 
 7. Yevenko Mykhaylo, *"Stock Exchange Browser"* [Mevnk/stockExchange](https://github.com/Mevnk/stockExchange)
+9. Artem Kapustkin, *"Hand-made Soap Database"* [ArtemKapustkin/Hand-made-Soap-Catalog](https://github.com/ArtemKapustkin/Hand-made-Soap-Catalog)
 16. Dmytro Podobied *"Car dealership"* [dmpodob/car-dealership](https://github.com/dmpodob/car-dealership)
 18. Synytsya Vladyslav *"Clothing shop"* [vsynytsia/clothing-shop](https://github.com/vsynytsia/clothing-shop)
 
