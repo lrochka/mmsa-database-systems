@@ -15,6 +15,8 @@
 ## KA-07 info
 1. Byl Kyrylo KA-07, *"Tutoring services"* [pusszka/Tutoring-services](https://github.com/pusszka/Tutoring-services)
 4. Harts Mykola, *"Hardware Store"* [Tesolas/database-coursework](https://github.com/Tesolas/database-coursework)
+2. Vantik Oleksiy, *"Waterpolo players market database"* [Limonchella/vodnoepolo](https://github.com/Limonchella/vodnoepolo)
+4. Harts Mykola, *"Hardware Store"* [Tesolas/database-coursework](https://github.com/Tesolas/database-coursework)
 14. Max Moskalenko, *"Commodity Market"* [MaxMoskalenko/database-course-work](https://github.com/MaxMoskalenko/database-course-work)
 15. Nakhod Oleksii, *"Music Streaming Service"* [Music Streaming Service](https://github.com/Wartexnik/music-streaming-service)
 23. Skoropadskii Artem, *"3D Model Database and Viewer"* [L1ghtboro/ThreeDModel-Database](https://github.com/L1ghtboro/ThreeDModel-Database)
