@@ -19,7 +19,7 @@
 
 ## KA-08 info
 
-5. Nikita Hohulia,  *"Account sharing"* [HNDaG/Account-sharing](https://github.com/HNDaG/Account-sharing)
+6. Nikita Hohulia,  *"Account sharing"* [HNDaG/Account-sharing](https://github.com/HNDaG/Account-sharing)
 7. Yevenko Mykhaylo, *"Stock Exchange Browser"* [Mevnk/stockExchange](https://github.com/Mevnk/stockExchange)
 16. Dmytro Podobied *"Car dealership"* [dmpodob/car-dealership](https://github.com/dmpodob/car-dealership)
 
