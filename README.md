@@ -18,6 +18,7 @@
 14. Max Moskalenko, *"Commodity Market"* [MaxMoskalenko/database-course-work](https://github.com/MaxMoskalenko/database-course-work)
 15. Nakhod Oleksii, *"Music Streaming Service"* [Music Streaming Service](https://github.com/Wartexnik/music-streaming-service)
 23. Skoropadskii Artem, *"3D Model Database and Viewer"* [L1ghtboro/ThreeDModel-Database](https://github.com/L1ghtboro/ThreeDModel-Database)
+25. Trach Eugene, *"Music platform"* [justEugene118/Music-platform](https://github.com/justEugene118/Music-platform)
 29. Shevchuk Vladyslav, *"CyberSport Database"* [DDarel/CourseWorkDataBaseShevchuk](https://github.com/DDarel/CourseWorkDataBaseShevchuk)
 
 ## KA-08 info
