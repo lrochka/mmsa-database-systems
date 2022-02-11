@@ -12,6 +12,7 @@
 7. Vergelyuk Alexander, *"Sports tourist club"* topic [Alex-Verg/Sports-turist-club](https://github.com/Alex-Verg/Sports-turist-club)
 11. Druz Vladislav, *"Flight School"* [Danke3Lem/Flight-School](https://github.com/Danke3Lem/Flight-School)
 23. Skorobogatov Stanislav KA-06, *"Musical instruments store"* [Stas293/Musical-instruments-store](https://github.com/Stas293/Musical-instruments-store)
+27. Shvets Vitalii, *"Game rating service"* [Glekk/game-rating-service](https://github.com/Glekk/game-rating-service) 
 
 ## KA-07 info
 1. Byl Kyrylo KA-07, *"Tutoring services"* [pusszka/Tutoring-services](https://github.com/pusszka/Tutoring-services)
