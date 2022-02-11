@@ -12,6 +12,7 @@
 5. Tymofii Bondarenko, *"Import cars database"* [timofeyka25/import-cars-database](https://github.com/timofeyka25/import-cars-database)
 7. Vergelyuk Alexander, *"Sports tourist club"* topic [Alex-Verg/Sports-turist-club](https://github.com/Alex-Verg/Sports-turist-club)
 11. Druz Vladislav, *"Flight School"* [Danke3Lem/Flight-School](https://github.com/Danke3Lem/Flight-School)
+12. Efanov Iliya, *"Cinema database"* [JeskoThe1/Cinema-database] (https://github.com/JeskoThe1/Cinema-database)
 17. Bogdan Kochedikov, *"Crypto Platform"* [bkochedikov/CryptoPlatform](https://github.com/bkochedikov/CryptoPlatform)
 23. Skorobogatov Stanislav KA-06, *"Musical instruments store"* [Stas293/Musical-instruments-store](https://github.com/Stas293/Musical-instruments-store)
 27. Shvets Vitalii, *"Game rating service"* [Glekk/game-rating-service](https://github.com/Glekk/game-rating-service) 
