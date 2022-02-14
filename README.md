@@ -31,6 +31,7 @@
 
 1. Akymenko Andrii, *"Medicines Registration Database"* [ap-akymenko/database-coursework](https://github.com/ap-akymenko/database-coursework)
 4. Brovko Danil, *"Hospital Database"* [BrovkoD/hospitalDatabase](https://github.com/BrovkoD/hospitalDatabase)
+6. Nikita Hohulia,  *"Account sharing"* [HNDaG/Account-sharing](https://github.com/HNDaG/Account-sharing)
 7. Yevenko Mykhaylo, *"Stock Exchange Browser"* [Mevnk/stockExchange](https://github.com/Mevnk/stockExchange)
 9. Artem Kapustkin, *"Hand-made Soap Database"* [ArtemKapustkin/Hand-made-Soap-Catalog](https://github.com/ArtemKapustkin/Hand-made-Soap-Catalog)
 15. Panasiuk Ruslan *"Marketplace for freelance musicians"* [panasiuk-r/marketplce-for-musicians](https://github.com/panasiuk-r/marketplce-for-musicians)
