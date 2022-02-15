@@ -33,6 +33,7 @@
 4. Brovko Danil, *"Hospital Database"* [BrovkoD/hospitalDatabase](https://github.com/BrovkoD/hospitalDatabase)
 7. Yevenko Mykhaylo, *"Stock Exchange Browser"* [Mevnk/stockExchange](https://github.com/Mevnk/stockExchange)
 9. Artem Kapustkin, *"Hand-made Soap Database"* [ArtemKapustkin/Hand-made-Soap-Catalog](https://github.com/ArtemKapustkin/Hand-made-Soap-Catalog)
+12. Daria Mitiuk *"Cheese Dairy Database"* [dariamitiuk/Cheese-Dairy-Database](https://github.com/dariamitiuk/Cheese-Dairy-Database)
 15. Panasiuk Ruslan *"Marketplace for freelance musicians"* [panasiuk-r/marketplce-for-musicians](https://github.com/panasiuk-r/marketplce-for-musicians)
 16. Dmytro Podobied *"Car dealership"* [dmpodob/car-dealership](https://github.com/dmpodob/car-dealership)
 17. Rentiuk Vitalii *"Music store of phisical editions"* [Vitalii-Rent/ Music-editions-store](https://github.com/Vitalii-Rent/Music-editions-store)
