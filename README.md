@@ -38,6 +38,7 @@
 2. Babych Marharyta, *"Real Estate Database"* [getcat-dev/Real-estate-database](https://github.com/getcat-dev/Real-estate-database)
 3. Andriy Bielik, *"Book Store"* [loneew/Book-Store](https://github.com/loneew/Book-Store)
 4. Brovko Danil, *"Hospital Database"* [BrovkoD/hospitalDatabase](https://github.com/BrovkoD/hospitalDatabase)
+6. Nikita Hohulia, *"Culinary recipe database"* [HNDaG/culinary-recipe-database](https://github.com/HNDaG/culinary-recipe-database)
 7. Yevenko Mykhaylo, *"Stock Exchange Browser"* [Mevnk/stockExchange](https://github.com/Mevnk/stockExchange)
 9. Artem Kapustkin, *"Hand-made Soap Database"* [ArtemKapustkin/Hand-made-Soap-Catalog](https://github.com/ArtemKapustkin/Hand-made-Soap-Catalog)
 14. Anna Osovskaya, *"Library"* [annaosovskaya/library-database](https://github.com/annaosovskaya/library-database)
