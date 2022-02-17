@@ -24,6 +24,7 @@
 8. Zelenko Ilya *"Messenger"* [IlyaZelenko/Course_work](https://github.com/IlyaZelenko/Course_work)
 14. Max Moskalenko, *"Commodity Market"* [MaxMoskalenko/database-course-work](https://github.com/MaxMoskalenko/database-course-work)
 15. Nakhod Oleksii, *"Music Streaming Service"* [Music Streaming Service](https://github.com/Wartexnik/music-streaming-service)
+16. Nikolaychuk Olexandr, *"Football Club database"* [lMirAliSl/Football-Club-database](https://github.com/lMirAliSl/Football-Club-database)
 20. Rizun Volodymyr, *"Translation Dictionary"* [VolodymyrRizun/translation_Dictionary](https://github.com/VolodymyrRizun/translation_Dictionary)
 21. Viacheslav Rudametkin, *"Chess Federation"* [ITVyas/Chess-Federation-Data-Base](https://github.com/ITVyas/Chess-Federation-Data-Base)
 23. Skoropadskii Artem, *"3D Model Database and Viewer"* [L1ghtboro/ThreeDModel-Database](https://github.com/L1ghtboro/ThreeDModel-Database)
