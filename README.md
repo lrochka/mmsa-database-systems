@@ -23,6 +23,7 @@
 1. Byl Kyrylo KA-07, *"Tutoring services"* [pusszka/Tutoring-services](https://github.com/pusszka/Tutoring-services)
 2. Vantik Oleksiy, *"Waterpolo players market database"* [Limonchella/vodnoepolo](https://github.com/Limonchella/vodnoepolo)
 3. Vysotskyy Dmitriy *"Task management"* [dimavys/IASA-course-work](https://github.com/dimavys/IASA-course-work)
+4. Harts Mykola, *"Hardware Store"* [Tesolas/database-coursework](https://github.com/Tesolas/database-coursework)
 6. Dubyk Nataliia, *"Food Ordering System"* [fortunat-a-ly/food_ordering_db](https://github.com/fortunat-a-ly/food_ordering_db)
 8. Zelenko Ilya *"Messenger"* [IlyaZelenko/Course_work](https://github.com/IlyaZelenko/Course_work)
 14. Max Moskalenko, *"Commodity Market"* [MaxMoskalenko/database-course-work](https://github.com/MaxMoskalenko/database-course-work)
