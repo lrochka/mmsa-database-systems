@@ -15,6 +15,7 @@
 17. Bogdan Kochedikov, *"Crypto Platform"* [bkochedikov/CryptoPlatform](https://github.com/bkochedikov/CryptoPlatform)
 20. Nykonenko Oleh, *"ChessTournamentDatabase"* [Nekto-Nykon/ChessTournamentDatabase](https://github.com/Nekto-Nykon/ChessTournamentDatabase)
 23. Skorobogatov Stanislav KA-06, *"Musical instruments store"* [Stas293/Musical-instruments-store](https://github.com/Stas293/Musical-instruments-store)
+24. Stoliarchuk Yelyzaveta, *"Pharmacy"* [liza-rgb/pharmacy-iasa](https://github.com/liza-rgb/pharmacy-iasa)
 25. Sulima Ivan, *"Manga database"* [SuviGod/MangaDatabase](https://github.com/SuviGod/MangaDatabase)
 27. Shvets Vitalii, *"Game rating service"* [Glekk/game-rating-service](https://github.com/Glekk/game-rating-service) 
 
