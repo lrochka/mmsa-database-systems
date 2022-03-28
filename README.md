@@ -6,7 +6,7 @@
 
 - Afanasieva Iryna, *"Database Systems Course"* topic description [lrochka/mmsa-database-systems](https://github.com/lrochka/mmsa-database-systems)
 
-## KA-06 info 
+## KA-06 info
 
 1. Aliiev Ramin, *"Guitar School"* [Ramelian/Guitar-School](https://github.com/Ramelian/Guitar-School)
 5. Tymofii Bondarenko, *"Import cars database"* [timofeyka25/import-cars-database](https://github.com/timofeyka25/import-cars-database)
@@ -17,7 +17,7 @@
 23. Skorobogatov Stanislav KA-06, *"Musical instruments store"* [Stas293/Musical-instruments-store](https://github.com/Stas293/Musical-instruments-store)
 24. Stoliarchuk Yelyzaveta, *"Pharmacy"* [liza-rgb/pharmacy-iasa](https://github.com/liza-rgb/pharmacy-iasa)
 25. Sulima Ivan, *"Manga database"* [SuviGod/MangaDatabase](https://github.com/SuviGod/MangaDatabase)
-27. Shvets Vitalii, *"Game rating service"* [Glekk/game-rating-service](https://github.com/Glekk/game-rating-service) 
+27. Shvets Vitalii, *"Game rating service"* [Glekk/game-rating-service](https://github.com/Glekk/game-rating-service)
 
 ## KA-07 info
 1. Byl Kyrylo KA-07, *"Tutoring services"* [pusszka/Tutoring-services](https://github.com/pusszka/Tutoring-services)
@@ -48,6 +48,7 @@
 16. Dmytro Podobied *"Car dealership"* [dmpodob/car-dealership](https://github.com/dmpodob/car-dealership)
 17. Rentiuk Vitalii *"Music store of phisical editions"* [Vitalii-Rent/ Music-editions-store](https://github.com/Vitalii-Rent/Music-editions-store)
 18. Synytsya Vladyslav *"Clothing shop"* [vsynytsia/clothing-shop](https://github.com/vsynytsia/clothing-shop)
+20. Tkachenko Olha *"Users stories"* [HinderDet/MyStories](https://github.com/HinderDet/MyStories.git)
 22. Kholiavko Mykyta *"Auction Service"* [mykykh/auction-service](https://github.com/mykykh/auction-service.git)
 
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
