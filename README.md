@@ -43,6 +43,7 @@
 6. Nikita Hohulia, *"Culinary recipe database"* [HNDaG/culinary-recipe-database](https://github.com/HNDaG/culinary-recipe-database)
 7. Yevenko Mykhaylo, *"Stock Exchange Browser"* [Mevnk/stockExchange](https://github.com/Mevnk/stockExchange)
 9. Artem Kapustkin, *"Hand-made Soap Database"* [ArtemKapustkin/Hand-made-Soap-Catalog](https://github.com/ArtemKapustkin/Hand-made-Soap-Catalog)
+12. Daria Mitiuk, *"Cheese Dairy Database"* [dariamitiuk/Cheese-Dairy-Database](https://github.com/dariamitiuk/Cheese-Dairy-Database)
 14. Anna Osovskaya, *"Library"* [annaosovskaya/library-database](https://github.com/annaosovskaya/library-database)
 15. Panasiuk Ruslan *"Marketplace for freelance musicians"* [panasiuk-r/marketplce-for-musicians](https://github.com/panasiuk-r/marketplce-for-musicians)
 16. Dmytro Podobied *"Car dealership"* [dmpodob/car-dealership](https://github.com/dmpodob/car-dealership)
